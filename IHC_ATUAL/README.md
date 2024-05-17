@@ -2,11 +2,11 @@
 
 Texto que serviu de base para a análise: [https://www.nngroup.com/articles/ten-usability-heuristics](https://www.nngroup.com/articles/ten-usability-heuristics)
 
-## ✖ [Heurística 8 - Design estético e minimalista](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-8-aesthetic-and-minimalist-design-8)
+## ✖ [Heurística 2 - Correspondência entre o sistema e o mundo real](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-2-match-between-the-system-and-the-real-world-2)
 
-O site não segue um design estético e minimalista trazendo até mesmo um desconforto ao usuário com fortes contrastes entre as cores.
+O ícone do botão vermelho no canto superior direito não representa da mehlor forma o botão de deslogar do site.
 
-![Imagem heurística 8](imgs/image-7.png)
+![Imagem heurística 2](imgs/image-8.png)
 
 ## ✖ [Heurística 3 - Controle e liberdade do usuário](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-3-user-control-and-freedom-3)
 
@@ -24,6 +24,18 @@ O menu na esquerda do site reduz a eficiência de uso devido o design escolhido 
 
 ![Imagem heurística 7](imgs/image-6.png)
 
+## ✖ [Heurística 7 - Flexibilidade e eficiência de uso](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-7-flexibility-and-efficiency-of-use-7)
+
+Não é possível utlizar a tecla enter para terminar de logar no site.
+
+![Imagem heurística 7](imgs/image-9.png)
+
+## ✖ [Heurística 8 - Design estético e minimalista](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-8-aesthetic-and-minimalist-design-8)
+
+O site não segue um design estético e minimalista trazendo até mesmo um desconforto ao usuário com fortes contrastes entre as cores.
+
+![Imagem heurística 8](imgs/image-7.png)
+
 ## ✔ [Heurística 2 - Correspondência entre o sistema e o mundo real](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-2-match-between-the-system-and-the-real-world-2)
 
 Os ícones no canto esquerdo da tela correspondem a linguagem do mundo real. Exemplo: Um bom exemplo é o ícone de lixeira que exclui os emails indesejados pelo usuário.
@@ -36,14 +48,14 @@ Para previnir que o usuário delete um repositório sem que seja de sua vontade,
 
 ![Imagem heurística 5](imgs/image-1.png)
 
-## ✔ [Heurística 9 - Ajuda os usuários a reconhecer, diagnosticar e recuperar-se de erros](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-9-help-users-recognize-diagnose-and-recover-from-errors-9)
-
-O site fornece uma mensagem de erro clara para que o usuário possa contornar o erro, garantindo uma melhor experiência durante o uso do site.
-
-![Imagem heurística 9](imgs/image-2.png)
-
 ## ✔ [Heurística 5 - Prevenção de erros](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-5-error-prevention-5)
 
 Para realizar certas ações o site exige que o usuário confirme a ação digitando um código que aparece na tela no telefone celular utilizado como ferramenta de autenticação.
 
 ![Imagem heurística 5](imgs/image-3.png)
+
+## ✔ [Heurística 9 - Ajuda os usuários a reconhecer, diagnosticar e recuperar-se de erros](https://www.nngroup.com/articles/ten-usability-heuristics/#toc-9-help-users-recognize-diagnose-and-recover-from-errors-9)
+
+O site fornece uma mensagem de erro clara para que o usuário possa contornar o erro, garantindo uma melhor experiência durante o uso do site.
+
+![Imagem heurística 9](imgs/image-2.png)
