@@ -1,5 +1,10 @@
  ## Atividade de desenvolvimento de um ChatBot
 
+Nome do Bot: 
+```bash
+PharmaciaBot
+```
+
 > [!TIP]
 > O objetivo da atividade é desenvolver um bot, utilizando o telebot, pytelegrambotapi e transformers. Nesse sentido, o bot deve ser implementado em alguma área, exemplo: pizzaria, hospital, hotel, no nosso caso o bot foi implementado para o ambito fármaceutico.
 
